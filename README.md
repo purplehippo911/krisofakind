@@ -5,7 +5,7 @@ https://user-images.githubusercontent.com/75515498/133908608-55a56622-7f27-42fd-
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- <img src=""> this is another way you can add in images -->
-Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I've run many hackathons, and am an accomplished MC, speaker, and facilitator :microphone:. You'll often catch me at an event or speaking on stage! Well, not so much at the moment, but you'll probably find me on a live stream instead!
+Everyday, I get to create awesome experiences and engage with the vibrant GitHub developer community. I participate in many Hackathon's and may start livetsreaming them next year, and am an accomplished dev, speaker, and facilitator :microphone:. I am a also a vr enthusiast and attend many events. you'll probably find me on a live stream!
 
 <!-- ![2021-08-10 20-43-14 2021-08-10 20_45_32](https://user-images.githubusercontent.com/36594527/131284497-24a6db5f-d86d-4548-81cc-fa6aa186892c.gif) -->
 ![GitHub metrics](https://metrics.lecoq.io/krisxkrazy)  
