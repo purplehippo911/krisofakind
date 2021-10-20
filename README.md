@@ -50,7 +50,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Twitch](http://twitch.tv/krisxkrazy) 📺 
 - [LinkedIn](http://linkedin.com/in/krisxkrazy) 👩‍💻
 - [YouTube](http://youtube.com/c/krisxkrazy) 📽 
-- [KrisKrazy®™ website](http://krisxkrazy.com) 🌐 
+- [KrisKrazy®™ website](http://kriskrazy.com) 🌐 
 - [Kris Krazy®™ blog](https://kriskrazy.com/blog) 🌐
 
 -->
