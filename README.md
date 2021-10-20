@@ -57,10 +57,10 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 
 ### Watch, read, and catch up on content:
 - [GitHub blog articles](https://github.blog/author/krisxkrazy/) :book:
-- [Esports and gaming articles](https://www.upcomer.com/author/michelle-mannering/) :notebook:
-- [DEV.to blog posts](https://dev.to/mishmanners) ✍️
+- [Esports and gaming articles](https://www.kriskrazy.com/blog) :notebook:
+- [DEV.to blog posts](https://dev.to/krisxkrazy) ✍️
 - [Past Twitch streams](https://www.twitch.tv/krisxkrazy/videos?filter=highlights&sort=time) :bookmark:
-- [Talks and presentations](https://michellemannering.wordpress.com/recorded-presentations/) :books:
+- [Talks and presentations](https://kriskrazy.com/recorded-presentations/) :books:
 - [Buy merchandise](https://merch.streamelements.com/mishmanners/) 🛒
 - [Buy even more merchandise](https://www.redbubble.com/people/MishManners/shop) 🛍️
 
