@@ -64,7 +64,7 @@ Everyday, I get to create awesome experiences and engage with the vibrant GitHub
 - [Buy merchandise]() 🛒
 - [Buy even more merchandise]() 🛍️
 
-<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/75515498/133908951-49be6606-12b5-4b53-9530-83221f000174.png"></a>
+<img align="right" width="150" height="150" src="https://user-images.githubusercontent.com/75515498/141416223-1c183d00-b171-4d1a-b3c2-1c8b71997551.png"></a>
 ### Some Fun Facts about me:
 :zap: I've founded a few companies in the past. I love playing video games which you'll find over on my [Twitch Channel](http://twitch.tv/MishManners). On my channel, I also do live coding! I'm super into sports, including lots of outdoors adventures like hiking, snowboarding, and wakeboarding. You'll probably run into me at an event, but for now, follow me online, jump in on my Twitch chats, or chat me at a virtual conference!
 
