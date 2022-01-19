@@ -1,7 +1,7 @@
 ## Hey everyone, I'm Kris®™, Ethical Hacker in training®™ 👋
 
 
-https://user-images.githubusercontent.com/75515498/133908608-55a56622-7f27-42fd-bfd5-7ff653a070a2.MP4
+![lofi_generator (1) (1)](https://user-images.githubusercontent.com/75515498/150048632-5781c201-e01f-410c-b67e-ff3bd59a74d6.png)
 <!--
 **MishManners/MishManners** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- <img src=""> this is another way you can add in images -->
