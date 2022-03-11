@@ -10,9 +10,9 @@
 
 :computer: 𝓒𝓢 𝓢𝓽𝓾𝓭𝓮𝓷𝓽, 𝓬𝓾𝓻𝓻𝓮𝓷𝓽𝓵𝔂 𝓪𝓽𝓽𝓮𝓷𝓭𝓲𝓷𝓰 𝒂𝒕 [Devry University](https://www.devry.edu/) 𝒓𝒆𝒎𝒐𝒕𝒆𝒍𝒚.
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.
+:vulcan_salute: 𝓜𝔂 𝓬𝓾𝓻𝓻𝓮𝓷𝓽 𝓯𝓸𝓬𝓾𝓼 𝓲𝓼 𝓸𝓷 𝓯𝓾𝓷𝓭𝓪𝓶𝓮𝓷𝓽𝓪𝓵𝓼. 𝓑𝓾𝓲𝓵𝓭𝓲𝓷𝓰 𝓶𝔂 𝓽𝓮𝓬𝓱 𝓼𝓽𝓪𝓬𝓴 𝓯𝓸𝓻 𝓬𝔂𝓫𝓮𝓻𝓼𝓮𝓬, 𝓪𝓷𝓭 𝓶𝓪𝓬𝓱𝓲𝓷𝓮 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
+:writing_hand: 𝓘 𝓵𝓸𝓿𝓮 𝓼𝓱𝓪𝓻𝓲𝓷𝓰 𝓶𝔂 𝓹𝓻𝓸𝓳𝓮𝓬𝓽𝓼, 𝓪𝓼 𝓘 𝓼𝓽𝓾𝓭𝔂 𝓪𝓷𝓭 𝓲𝓷𝓬𝓻𝓮𝓪𝓼𝓮 𝓶𝔂 𝓽𝓮𝓬𝓱 𝓼𝓽𝓪𝓬𝓴 𝓯𝓸𝓻 𝓿𝓪𝓻𝓲𝓸𝓾𝓼 𝓪𝓻𝓮𝓪𝓼
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
@@ -28,4 +28,4 @@
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=krisxkrazy&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for krisxkrazy" width="700">
