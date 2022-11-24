@@ -42,11 +42,9 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 <!-- TODO change to the GitHub Skyline 2021 graph -->
 ![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisofakind&show_icons=true&theme=prussian)
 
-<img src="https://github.com/MishManners/MishManners/blob/master/ezgif-4-5370f601a9b3.gif" width="700">
+<img src="https://github-readme-stats.vercel.app/api?username=krisofakind&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&layout=compact" alt="GitHub Stats for MishManners" width="700">
 
-<img src="https://github-readme-stats.vercel.app/api?username=mishmanners&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&layout=compact" alt="GitHub Stats for MishManners" width="700">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=MishManners&theme=jolly" width="700">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=krisofakind&theme=prussian" width="700">
 
 
 
