@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋, I'm Kris Yotam a cyber-analyst from the US</h3>
 <h4 align="center">omni dev in training</h4>
-[!kris.jpg](https://i.postimg.cc/5tC8r8cw/kris.jpg)](https://postimg.cc/TyTyLL3w)
+[![kris.jpg](https://i.postimg.cc/5tC8r8cw/kris.jpg)](https://postimg.cc/TyTyLL3w)
 
 <p align="left"> <a href="https://twitter.com/krisofakind" target="blank"><img src="https://img.shields.io/twitter/follow/krisofakind?logo=twitter&style=for-the-badge" alt="krisofakind" /></a> </p>
 
