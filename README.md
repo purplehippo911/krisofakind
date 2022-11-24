@@ -52,5 +52,5 @@ As for the charts 🥧, if you like my A++ stats, then you can make your own by 
 ### Watch my contribution graph get eaten by the snake 🐍
 
 <!-- platane/snk works, it just puts it on a new branch -->
-![kris snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
+![github-user-contribution](https://user-images.githubusercontent.com/75515498/203710096-fea6af10-71b6-45ba-8f48-a8ab39113e68.svg)
 
