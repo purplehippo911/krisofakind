@@ -28,9 +28,9 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/laelyotam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laelyotam" /></a><a href="https://ko-fi.com/krisofakind"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="krisofakind" /></a></p><br><br>
 
-[![octocat-1669270722282.png](https://i.postimg.cc/dV29Qzth/octocat-1669270722282.png)](https://postimg.cc/18zFJ7FS)
 
-<img align="right" width="150" height="150" src="(https://i.postimg.cc/dV29Qzth/octocat-1669270722282.png"></a>
+<img align="right" width="150" height="150" src="https://i.postimg.cc/dV29Qzth/octocat-1669270722282.png"></a>
+
 ### Some Fun Facts about me:
 I am studying to become a multi engineer or applied scientist. Having skills needed for cybersecurity, machine learning, data science, software engineering, and quantium computing :zap: I love playing CTF's [Youtube Channel](http://youtube.com/@krisofakind). Also planning on live coding in the future! I'm super into sports, including tennis, track, and golf. You'll probably run into me at an event, if you do introduce yourself. glad to meet new people.
 
