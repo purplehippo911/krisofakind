@@ -28,6 +28,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/laelyotam"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="laelyotam" /></a><a href="https://ko-fi.com/krisofakind"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="krisofakind" /></a></p><br><br>
 
+[![octocat-1669270722282.png](https://i.postimg.cc/dV29Qzth/octocat-1669270722282.png)](https://postimg.cc/18zFJ7FS)
 
 <img align="right" width="150" height="150" src="(https://i.postimg.cc/dV29Qzth/octocat-1669270722282.png"></a>
 ### Some Fun Facts about me:
