@@ -1,5 +1,6 @@
 <h3 align="center">Hi 👋, I'm Kris Yotam a soc-analyst from the US</h3>
 
+<img src="https://media.tenor.com/iMUKJ0TEeOkAAAAC/anime-keyboard.gif" alt="drawing" width="800"/>
 ![anime-girl](https://media.tenor.com/iMUKJ0TEeOkAAAAC/anime-keyboard.gif)
 [![211792.gif](https://i.postimg.cc/ht9CYXkQ/211792.gif)](https://postimg.cc/K18rk8vm) https://media.tenor.com/iMUKJ0TEeOkAAAAC/anime-keyboard.gif
 
