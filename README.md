@@ -43,10 +43,8 @@ I am studying to become a multi engineer or applied scientist. Having skills nee
 [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
 
 <!-- TODO change to the GitHub Skyline 2021 graph -->
-![Kris's GitHub stats](https://github-readme-stats.vercel.app/api?username=krisofakind&show_icons=true&theme=prussian)
-
-<img src="https://github-readme-stats.vercel.app/api?username=krisofakind&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&layout=compact" alt="GitHub Stats for MishManners" width="700">
-
+<img src="https://github-readme-stats.vercel.app/api?username=krisofakind&amp;show_icons=true&amp;theme=prussian" alt="Kris&#39;s GitHub stats" width="700"><br>
+<img src="https://github-readme-stats.vercel.app/api?username=krisofakind&show_icons=true&include_all_commits=true&count_private=true&theme=prussian&layout=compact" alt="GitHub Stats for MishManners" width="700"><br>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=krisofakind&theme=prussian" width="700">
 
 
