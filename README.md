@@ -1,6 +1,7 @@
 <h3 align="center">Hi 👋, I'm Kris Yotam a soc-analyst from the US</h3>
 
-[![211792.gif](https://i.postimg.cc/ht9CYXkQ/211792.gif)](https://postimg.cc/K18rk8vm)
+<img src="https://media.tenor.com/iMUKJ0TEeOkAAAAC/anime-keyboard.gif"</a>
+[![211792.gif](https://i.postimg.cc/ht9CYXkQ/211792.gif)](https://postimg.cc/K18rk8vm) https://media.tenor.com/iMUKJ0TEeOkAAAAC/anime-keyboard.gif
 
 <p align="left"> <a href="https://twitter.com/krisofakind" target="blank"><img src="https://img.shields.io/twitter/follow/krisofakind?logo=twitter&style=for-the-badge" alt="krisofakind" /></a> </p>
 
