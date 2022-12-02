@@ -34,6 +34,11 @@
 ### Some Fun Facts about me:
 I am studying to become a multi engineer or applied scientist. Having skills needed for cybersecurity, machine learning, data science, software engineering, and quantium computing :zap: I love playing CTF's [Youtube Channel](http://youtube.com/@krisofakind). Also planning on live coding in the future! I'm super into sports, including tennis, track, and golf. You'll probably run into me at an event, if you do introduce yourself. glad to meet new people.
 
+## Try Hack Me
+<script src="https://tryhackme.com/badge/693680"></script>
+<script src="https://tryhackme.com/badge/1545496"></script>
+<script src="https://tryhackme.com/badge/1545442"></script>
+
 ## GitHub Stats
 
 [GitHub Readme Stats Repo](https://github.com/anuraghazra/github-readme-stats) and [🔥 GitHub Readme Streak Stats](https://github-readme-streak-stats.herokuapp.com/demo/).
