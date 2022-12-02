@@ -1,5 +1,4 @@
-<h3 align="center">Hi 👋, I'm Kris Yotam a cyber-analyst from the US</h3>
-<h4 align="center">polydev in training</h4>
+<h3 align="center">Hi 👋, I'm Kris Yotam a soc-analyst from the US</h3>
 
 [![211792.gif](https://i.postimg.cc/ht9CYXkQ/211792.gif)](https://postimg.cc/K18rk8vm)
 
